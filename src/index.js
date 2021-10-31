@@ -1,3 +1,6 @@
+// Start of program
+// A program consist of React, ReactDOM.
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
